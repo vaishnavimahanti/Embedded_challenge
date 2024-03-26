@@ -13,7 +13,9 @@ Key Features:
 Continuous measurement of gyroscope values.
 Distance calculation based on gyroscope data.
 Step counting based on gyroscope peaks.
+
 Demo Video: Watch Demo on YouTube
+https://youtu.be/7nIimy7XJX8
 
 ## Hardware Setup
 
